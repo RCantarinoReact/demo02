@@ -8,3 +8,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
+React App. Usei neste projeto : Redux, Redux-thunk, redux-forms e fetch api para integração com um API feita em Spring
+
+Execução da API
+
+1 - Baixe o jar
+2 - no cmd digite java -jar teste-api.jar
